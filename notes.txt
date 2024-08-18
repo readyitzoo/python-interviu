@@ -1,0 +1,10 @@
+adaugat al 3lea csv cu pretul de productie
+Identify any trends in sales over time (e.g., seasonal trends, monthly sales changes).
+de facut un csv cu toate product id pentru top5best
+simple linear regr
+
+DE INCLUS COMENTARII CU EXPLICATII LA FIECARE PAS IMPORTANT
+
+intrebari radu:
+profitu e bn calculat? per total nu pt zi (3.2)
+grafice? (3.3) pare ca vara vanzarile cresc constant, iar iarna brusc.
